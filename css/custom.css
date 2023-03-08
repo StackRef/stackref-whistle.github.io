@@ -1,0 +1,67 @@
+body {
+  background: #030A1E;
+}
+
+.header {
+  background: #030A1E;
+}
+
+.divider {
+  background: #688eff;
+}
+
+.logo__title {
+  color: #8FBDEF;
+}
+
+.logo__tagline {
+  color: #8FBDEF;
+}
+
+.widget__link:hover {
+  background: #688eff;
+}
+
+.widget__title {
+  border-bottom-color: #688eff;
+}
+
+.widget-taglist__link:hover {
+  background: #688eff;
+  color: #ffffff;
+}
+
+.widget-social__link-icon {
+  /*fill: #2d3541;*/
+}
+
+.btn {
+  background: #030A1E;
+  border-radius: 16px;
+  /*color:#2d3541;*/
+}
+
+.post__title a {
+  color: #030A1E;
+}
+
+.post__title a:hover {
+  background: #ffffff;
+  color: #688eff;
+}
+
+.tags__badge {
+  background: #688eff;
+}
+
+.tags__item:hover {
+  background: #ffffff;
+}
+
+.tags__link:hover {
+  background: #688eff;
+}
+
+.meta a:hover {
+  color: #688eff;
+}

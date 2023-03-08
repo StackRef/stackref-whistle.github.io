@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StackRef Whistle</title>
+    <link>/</link>
+    <description>Recent content on StackRef Whistle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2023 16:11:41 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internal Hackathons and Innovation</title>
+      <link>/post/internal-hackathons-and-innovation/</link>
+      <pubDate>Tue, 07 Mar 2023 16:11:41 -0500</pubDate>
+      
+      <guid>/post/internal-hackathons-and-innovation/</guid>
+      <description>&lt;p&gt;Internal hackathons, also known as innovation sprints, have become increasingly popular in companies around the world. These events are designed to encourage employees to come up with creative solutions to business challenges, and to foster a culture of innovation within the organization. In this blog post, we will explore how internal hackathons can improve company innovation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
