@@ -31,6 +31,7 @@ body {
   height: fit-content;
   width: fit-content;
   align-self: center;
+  margin-right: 10px;
 }
 
 .header__right:hover {
@@ -43,6 +44,7 @@ body {
   font-weight: bold;
   padding: 10px;
   text-align: center;
+  white-space: nowrap;
 }
 
 .header__right-link {
