@@ -30,8 +30,11 @@ body {
   display: inline-block;
   height: fit-content;
   width: fit-content;
-  margin-top: 40px;
   align-self: center;
+}
+
+.header__right:hover {
+  color: #030A1E;
 }
 
 .header__right-text {
@@ -42,9 +45,26 @@ body {
   text-align: center;
 }
 
+.header__right-link {
+  display: flex;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.header__right-link:hover {
+  color: #030A1E;
+}
+
 @media screen and (max-width: 767px) {
   .header__right {
     display: none;
+    border: 0;
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
   }
 }
 
