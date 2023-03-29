@@ -6,7 +6,25 @@
     <description>Recent content in Tags on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>collaboration</title>
+      <link>/tags/collaboration/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innovation</title>
+      <link>/tags/innovation/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hackathons</title>
       <link>/tags/hackathons/</link>
@@ -17,29 +35,11 @@
     </item>
     
     <item>
-      <title>innovation</title>
-      <link>/tags/innovation/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>quality</title>
       <link>/tags/quality/</link>
       <pubDate>Thu, 05 Jan 2023 13:33:13 -0500</pubDate>
       
       <guid>/tags/quality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>collaboration</title>
-      <link>/tags/collaboration/</link>
-      <pubDate>Mon, 04 Jul 2022 13:22:22 -0500</pubDate>
-      
-      <guid>/tags/collaboration/</guid>
       <description></description>
     </item>
     
