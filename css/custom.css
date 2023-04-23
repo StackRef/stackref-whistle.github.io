@@ -52,6 +52,7 @@ body {
 .header__right-text {
   display: flex;
   color: #ffffff;
+  font-size: 16pt;
   font-weight: bold;
   padding: 10px;
   text-align: center;
@@ -59,11 +60,8 @@ body {
 }
 
 .header__right-link {
-  display: flex;
   color: #ffffff;
-  font-weight: bold;
-  padding: 10px;
-  text-align: center;
+  font-size: 16pt;
 }
 
 .header__right-link:hover {
