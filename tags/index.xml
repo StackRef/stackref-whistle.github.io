@@ -6,7 +6,43 @@
     <description>Recent content in Tags on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 13:53:36 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 19:31:58 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hackathons</title>
+      <link>/tags/hackathons/</link>
+      <pubDate>Wed, 26 Apr 2023 19:31:58 -0400</pubDate>
+      
+      <guid>/tags/hackathons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infracost</title>
+      <link>/tags/infracost/</link>
+      <pubDate>Wed, 26 Apr 2023 19:31:58 -0400</pubDate>
+      
+      <guid>/tags/infracost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innovation</title>
+      <link>/tags/innovation/</link>
+      <pubDate>Wed, 26 Apr 2023 19:31:58 -0400</pubDate>
+      
+      <guid>/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stackref</title>
+      <link>/tags/stackref/</link>
+      <pubDate>Wed, 26 Apr 2023 19:31:58 -0400</pubDate>
+      
+      <guid>/tags/stackref/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>collaboration</title>
       <link>/tags/collaboration/</link>
@@ -17,29 +53,11 @@
     </item>
     
     <item>
-      <title>innovation</title>
-      <link>/tags/innovation/</link>
-      <pubDate>Sun, 23 Apr 2023 13:53:36 -0400</pubDate>
-      
-      <guid>/tags/innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>inspiration</title>
       <link>/tags/inspiration/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 -0400</pubDate>
       
       <guid>/tags/inspiration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hackathons</title>
-      <link>/tags/hackathons/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/hackathons/</guid>
       <description></description>
     </item>
     
