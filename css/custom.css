@@ -2,6 +2,24 @@ body {
   background: #030A1E;
 }
 
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto;
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;
+}
+
 .header {
   background: #030A1E;
 }

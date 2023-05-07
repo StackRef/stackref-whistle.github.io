@@ -6,7 +6,17 @@
     <description>Recent content on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 13:53:36 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infracost and our own Cossell added to automated hackathon scoring</title>
+      <link>/post/infracost-cossell/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
+      
+      <guid>/post/infracost-cossell/</guid>
+      <description>&lt;p&gt;Exciting news is coming out of StackRef HQ as we announce the addition of two new automated judging tools for hackathons:
+&lt;a href=&#34;https://www.infracost.io/&#34;&gt;&lt;strong&gt;Infracost&lt;/strong&gt;&lt;/a&gt; and &lt;strong&gt;Cossell&lt;/strong&gt;!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Become the Trailblazer</title>
       <link>/post/become-the-trailblazer/</link>
