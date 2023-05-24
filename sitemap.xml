@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/artificial-intelligence/</loc>
-    <lastmod>2023-05-06T00:00:00-04:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/tags/collaboration/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/tags/competition/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/post/embracing-feedback/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/tags/judging/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/categories/quotes/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-24T17:12:28-04:00</lastmod>
+  </url><url>
+    <loc>/categories/artificial-intelligence/</loc>
     <lastmod>2023-05-06T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/tags/cossell/</loc>
@@ -26,25 +50,10 @@
     <loc>/tags/innovation/</loc>
     <lastmod>2023-05-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-05-06T00:00:00-04:00</lastmod>
-  </url><url>
     <loc>/tags/stackref/</loc>
     <lastmod>2023-05-06T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-05-06T00:00:00-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-05-06T00:00:00-04:00</lastmod>
-  </url><url>
     <loc>/post/become-the-trailblazer/</loc>
-    <lastmod>2023-04-23T13:53:36-04:00</lastmod>
-  </url><url>
-    <loc>/tags/collaboration/</loc>
-    <lastmod>2023-04-23T13:53:36-04:00</lastmod>
-  </url><url>
-    <loc>/categories/quotes/</loc>
     <lastmod>2023-04-23T13:53:36-04:00</lastmod>
   </url><url>
     <loc>/post/embracing-variation-for-innovation/</loc>
