@@ -6,7 +6,25 @@
     <description>Recent content in Categories on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2023 16:32:20 -0400</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 16:26:43 -0400</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events</title>
+      <link>/categories/events/</link>
+      <pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
+      
+      <guid>/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathons</title>
+      <link>/categories/hackathons/</link>
+      <pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
+      
+      <guid>/categories/hackathons/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Quotes</title>
       <link>/categories/quotes/</link>
@@ -22,15 +40,6 @@
       <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
       
       <guid>/categories/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hackathons</title>
-      <link>/categories/hackathons/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
-      
-      <guid>/categories/hackathons/</guid>
       <description></description>
     </item>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stackref on StackRef Whistle</title>
-    <link>/tags/stackref/</link>
-    <description>Recent content in stackref on StackRef Whistle</description>
+    <title>Events on StackRef Whistle</title>
+    <link>/categories/events/</link>
+    <description>Recent content in Events on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2023 16:26:43 -0400</lastBuildDate><atom:link href="/tags/stackref/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 16:26:43 -0400</lastBuildDate><atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
       <link>/post/2023-06-15-devseccon-24/</link>
@@ -14,16 +14,6 @@
       
       <guid>/post/2023-06-15-devseccon-24/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Infracost and our own Cossell added to automated hackathon scoring</title>
-      <link>/post/infracost-cossell/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
-      
-      <guid>/post/infracost-cossell/</guid>
-      <description>&lt;p&gt;Exciting news is coming out of StackRef HQ as we announce the addition of two new automated judging tools for hackathons:
-&lt;a href=&#34;https://www.infracost.io/&#34;&gt;&lt;strong&gt;Infracost&lt;/strong&gt;&lt;/a&gt; and &lt;strong&gt;Cossell&lt;/strong&gt;!&lt;/p&gt;</description>
     </item>
     
   </channel>
