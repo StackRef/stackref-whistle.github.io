@@ -6,7 +6,16 @@
     <description>Recent content in devseccon on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2023 16:26:43 -0400</lastBuildDate><atom:link href="/tags/devseccon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate><atom:link href="/tags/devseccon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
+      <link>/post/2023-06-27-devseccon24-video/</link>
+      <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
+      
+      <guid>/post/2023-06-27-devseccon24-video/</guid>
+      <description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
       <link>/post/2023-06-15-devseccon-24/</link>
