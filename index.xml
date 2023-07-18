@@ -6,7 +6,17 @@
     <description>Recent content on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 19:55:18 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It Takes Two Flints to Make a Fire</title>
+      <link>/post/2023-07-17-two-flints/</link>
+      <pubDate>Mon, 17 Jul 2023 19:55:18 -0400</pubDate>
+      
+      <guid>/post/2023-07-17-two-flints/</guid>
+      <description>&lt;h4 id=&#34;it-takes-two-flints-to-make-a-fire---louisa-may-alcott&#34;&gt;&lt;em&gt;&amp;ldquo;It takes two flints to make a fire.&amp;rdquo; - Louisa May Alcott&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;The enduring wisdom in these few, simple words from Louisa May Alcott paints a striking picture of the value of collaboration, a value that shines with particular brilliance in the realm of software engineering and, specifically, during internal hackathons.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
       <link>/post/2023-06-27-devseccon24-video/</link>
