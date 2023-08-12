@@ -6,7 +6,16 @@
     <description>Recent content in hackathons on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate><atom:link href="https://whistle.stackref.com/tags/hackathons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 21:56:36 -0400</lastBuildDate><atom:link href="https://whistle.stackref.com/tags/hackathons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StackRef Vendor Insights from Amazon</title>
+      <link>https://whistle.stackref.com/post/2023-08-11-amazon-vendor-insights/</link>
+      <pubDate>Fri, 11 Aug 2023 21:56:36 -0400</pubDate>
+      
+      <guid>https://whistle.stackref.com/post/2023-08-11-amazon-vendor-insights/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re excited to unveil a significant enhancement to our Amazon Marketplace offering: &lt;a href=&#34;https://aws.amazon.com/marketplace/features/vendor-insights/&#34;&gt;Vendor Insights&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
       <link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
