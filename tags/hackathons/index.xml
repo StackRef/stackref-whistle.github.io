@@ -6,7 +6,17 @@
     <description>Recent content in hackathons on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2023 12:40:47 -0400</lastBuildDate><atom:link href="https://whistle.stackref.com/tags/hackathons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Oct 2023 10:17:30 -0400</lastBuildDate><atom:link href="https://whistle.stackref.com/tags/hackathons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You can now pay for StackRef with Stripe!</title>
+      <link>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</link>
+      <pubDate>Tue, 24 Oct 2023 10:17:30 -0400</pubDate>
+      
+      <guid>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</guid>
+      <description>&lt;p&gt;Good news, everyone!&lt;/p&gt;
+&lt;p&gt;Previously, purchasing StackCash &amp;ndash; credits used to schedule events &amp;ndash; was only possible by directly contacting us, or via the &lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-eaoyh5cthzovo&#34;&gt;Amazon Marketplace&lt;/a&gt;. Well, no longer! StackCash is now directly purchasable &lt;a href=&#34;https://app.stackref.com/dashboard/marketplace&#34;&gt;within the application&lt;/a&gt;, once you have your free account created and are an organization&amp;rsquo;s owner or administrator.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Visit us on the Amazon Startup Showcase</title>
       <link>https://whistle.stackref.com/post/2023-08-23-amazon-startup-showcase/</link>
@@ -40,10 +50,8 @@
       <pubDate>Wed, 21 Jun 2023 07:48:15 -0400</pubDate>
       
       <guid>https://whistle.stackref.com/post/2023-06-21-amazon-marketplace/</guid>
-      <description>Yesterday (June 20) marked a year since StackRef was officially incorporated. Less-officially, StackRef has been around since 2021.
-Coincidentally, it&amp;rsquo;s also the day StackRef officially went live in the Amazon Marketplace!
-Currently the pricing works out like this:
-Purchase a monthly or yearly subscription for StackRef, in blocks of 100 or 1000 &amp;ldquo;StackCash.&amp;rdquo; A subscription immediately grants you the requested number of StackCash, either into your already-created account or to a new one, if you hadn&amp;rsquo;t created one yet.</description>
+      <description>&lt;p&gt;Yesterday (June 20) marked a year since StackRef was officially incorporated. Less-officially, StackRef has been around since 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coincidentally, it&amp;rsquo;s also the day StackRef officially went live in the &lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-eaoyh5cthzovo&#34;&gt;Amazon Marketplace&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
