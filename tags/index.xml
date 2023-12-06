@@ -6,123 +6,105 @@
     <description>Recent content in Tags on StackRef Whistle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Oct 2023 10:17:30 -0400</lastBuildDate><atom:link href="https://whistle.stackref.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 22:26:35 -0500</lastBuildDate>
+    <atom:link href="https://whistle.stackref.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hackathons</title>
       <link>https://whistle.stackref.com/tags/hackathons/</link>
-      <pubDate>Tue, 24 Oct 2023 10:17:30 -0400</pubDate>
-      
+      <pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
       <guid>https://whistle.stackref.com/tags/hackathons/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>product hunt</title>
+      <link>https://whistle.stackref.com/tags/product-hunt/</link>
+      <pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
+      <guid>https://whistle.stackref.com/tags/product-hunt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>stackref</title>
+      <link>https://whistle.stackref.com/tags/stackref/</link>
+      <pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
+      <guid>https://whistle.stackref.com/tags/stackref/</guid>
+      <description></description>
+    </item>
     <item>
       <title>innovation</title>
       <link>https://whistle.stackref.com/tags/innovation/</link>
       <pubDate>Tue, 24 Oct 2023 10:17:30 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/innovation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>collaboration</title>
       <link>https://whistle.stackref.com/tags/collaboration/</link>
       <pubDate>Sat, 09 Sep 2023 18:00:47 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/collaboration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>teamwork</title>
       <link>https://whistle.stackref.com/tags/teamwork/</link>
       <pubDate>Sat, 09 Sep 2023 18:00:47 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/teamwork/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>devseccon</title>
       <link>https://whistle.stackref.com/tags/devseccon/</link>
       <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/devseccon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>snyk</title>
       <link>https://whistle.stackref.com/tags/snyk/</link>
       <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/snyk/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>stackref</title>
-      <link>https://whistle.stackref.com/tags/stackref/</link>
-      <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
-      
-      <guid>https://whistle.stackref.com/tags/stackref/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>competition</title>
       <link>https://whistle.stackref.com/tags/competition/</link>
       <pubDate>Wed, 24 May 2023 17:12:28 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/competition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>judging</title>
       <link>https://whistle.stackref.com/tags/judging/</link>
       <pubDate>Wed, 24 May 2023 17:12:28 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/judging/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>cossell</title>
       <link>https://whistle.stackref.com/tags/cossell/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/cossell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>infracost</title>
       <link>https://whistle.stackref.com/tags/infracost/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/infracost/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>inspiration</title>
       <link>https://whistle.stackref.com/tags/inspiration/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 -0400</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/inspiration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>quality</title>
       <link>https://whistle.stackref.com/tags/quality/</link>
       <pubDate>Thu, 05 Jan 2023 13:33:13 -0500</pubDate>
-      
       <guid>https://whistle.stackref.com/tags/quality/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
