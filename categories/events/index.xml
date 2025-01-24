@@ -4,7 +4,7 @@
     <title>Events on StackRef Whistle</title>
     <link>https://whistle.stackref.com/categories/events/</link>
     <description>Recent content in Events on StackRef Whistle</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Dec 2023 22:26:35 -0500</lastBuildDate>
     <atom:link href="https://whistle.stackref.com/categories/events/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</link>
       <pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
       <guid>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</guid>
-      <description>&lt;p&gt;Mark your calendars, folks!&lt;/p&gt;
-&lt;p&gt;StackRef will be officially launching on &lt;a href=&#34;https://www.producthunt.com/products/stackref&#34;&gt;Product Hunt&lt;/a&gt; on &lt;strong&gt;Wednesday, December 13, 2023&lt;/strong&gt;!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mark your calendars, folks!&lt;/p&gt;&#xA;&lt;p&gt;StackRef will be officially launching on &lt;a href=&#34;https://www.producthunt.com/products/stackref&#34;&gt;Product Hunt&lt;/a&gt; on &lt;strong&gt;Wednesday, December 13, 2023&lt;/strong&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>

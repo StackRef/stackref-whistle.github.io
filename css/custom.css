@@ -41,6 +41,7 @@ img[src$='#floatright']
   color: #8FBDEF;
 }
 
+/*
 .header__right {
   background: #688eff;
   border: 5px solid #688eff;
@@ -51,6 +52,7 @@ img[src$='#floatright']
   align-self: center;
   margin-right: 10px;
 }
+*/
 
 @media screen and (max-width: 767px) {
   .header__right {

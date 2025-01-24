@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>devseccon on StackRef Whistle</title>
+    <title>Devseccon on StackRef Whistle</title>
     <link>https://whistle.stackref.com/tags/devseccon/</link>
-    <description>Recent content in devseccon on StackRef Whistle</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Devseccon on StackRef Whistle</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate>
     <atom:link href="https://whistle.stackref.com/tags/devseccon/index.xml" rel="self" type="application/rss+xml" />
